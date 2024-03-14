@@ -36,3 +36,4 @@ We assume you have at least introductory level knowledge of ACI
 and its operations.
 
 _Offered in PDF and ePUB formats_
+v1.0(3) March 2024
